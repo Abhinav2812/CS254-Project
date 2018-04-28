@@ -220,6 +220,7 @@ class Board():
         plt.gca().set_xlim([0,self.rows])
         plt.gca().set_ylim([0,self.cols])
         plt.grid()
+        return plt
         plt.show()
 
 
