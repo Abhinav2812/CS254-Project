@@ -199,7 +199,7 @@ class Board():
         ca.append(color)
 
     
-    def drawGraphical(self):
+    def drawGraphical(self, image_name):
         x = []
         y = []
         r = []
@@ -220,8 +220,8 @@ class Board():
         plt.gca().set_xlim([0,self.rows])
         plt.gca().set_ylim([0,self.cols])
         plt.grid()
-        return plt
-        plt.show()
+        plt.savefig(image_name)
+        plt.clf()
 
 
 
