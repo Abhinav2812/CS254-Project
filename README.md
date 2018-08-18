@@ -45,4 +45,4 @@ In the event that you cannot clone the respository, you can instead choose to vi
 Click the following links to access the online versions:
 * [Chain Reaction](https://nbviewer.jupyter.org/github/vicennial/CS254-Project/blob/master/chain-reaction.ipynb)
 * [Green Hackenbush](https://nbviewer.jupyter.org/github/vicennial/CS254-Project/blob/master/green_hb.ipynb)
-* [Red Blue Hackebush](https://github.com/vicennial/CS254-Project/blob/master/redblue_hb.ipynb) 
+* [Red Blue Hackebush](https://nbviewer.jupyter.org/github/vicennial/CS254-Project/blob/master/redblue_hb.ipynb) 
