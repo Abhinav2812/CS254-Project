@@ -1,0 +1,3 @@
+**/*.ipynb_checkpoints/	
+Folder/.ipynb_checkpoints/*.ipynb
+**/*.pyc
