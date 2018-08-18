@@ -39,5 +39,10 @@ The rules of the two-player(Red and Green) game are:
 
 # Instructions
 * Clone the respository into a local folder.
-* Using **Jupyter Notebook** , open the files **chain-reaction.ipynb** , **green_hb.ipynb** and **redblue_hb.ipynb**.
-The notebook files contain code,strategy and visualization of their respective topics.
+* Using **Jupyter Notebook** , open the files **chain-reaction.ipynb** , **green_hb.ipynb** and **redblue_hb.ipynb**. The notebook files contain code,strategy and visualization of their respective topics.   
+
+In the event that you cannot clone the respository, you can instead choose to view the notebook files online albeit in static view only.  
+Click the following links to access the online versions:
+* [Chain Reaction](https://nbviewer.jupyter.org/github/vicennial/CS254-Project/blob/master/chain-reaction.ipynb)
+* [Green Hackenbush](https://nbviewer.jupyter.org/github/vicennial/CS254-Project/blob/master/green_hb.ipynb)
+* [Red Blue Hackebush](https://github.com/vicennial/CS254-Project/blob/master/redblue_hb.ipynb) 
