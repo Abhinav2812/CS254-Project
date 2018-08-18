@@ -36,3 +36,8 @@ The rules of the two-player(Red and Green) game are:
 * When a cell reaches its critical mass, it immediately explodes and an orb is added to each of its orthogonally adjacent neighbours. This may result in neighbouring cells to reach their critical mass. The chain reaction of explosions continue untill every cell is stable.
 * When a cell explodes near cell of different colour, those cells are converted to the exploding cell colour and normal explosion rules follow.
 * The winner is the one who eliminates all orbs of the other colour. 
+
+# Instructions
+* Clone the respository into a local folder.
+* Using **Jupyter Notebook** , open the files **chain-reaction.ipynb** , **green_hb.ipynb** and **redblue_hb.ipynb**.
+The notebook files contain code,strategy and visualization of their respective topics.
